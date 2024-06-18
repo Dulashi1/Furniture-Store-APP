@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Labexam2</string>
+    <string name="elevate_your_living_space_with_udaya_furniture_where_dreams_meet_design" translatable="false">Elevate Your Living Space with Udaya Furniture Where Dreams Meet Design</string>
+    <string name="it_is_now_very_easy_to_reach_the_best_quality_among_the_products_on_the_internet" translatable="false">It is now very easy to reach the best quality among the products on the internet!</string>
+    <string name="get_started" translatable="false">Get started</string>
+    <string name="my_cart" translatable="false">My Cart</string>
+    <string name="your_shopping_cart_is_empty" translatable="false">Your Shopping cart is empty!</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="first_name" translatable="false">First Name</string>
+    <string name="e_mail" translatable="false">E-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="save_and_update" translatable="false">Save and update</string>
+    <string name="rs_150000" translatable="false">Rs 150000</string>
+    <string name="experience_ultimate_comfort_and_support_with_our_ergonomic_design" translatable="false">Experience ultimate comfort and support with our ergonomic design</string>
+    <string name="color" translatable="false">Color</string>
+    <string name="add_to_cart" translatable="false">Add to Cart</string>
+    <string name="don_t_have_an_account_register" translatable="false">Don\'t have an account?Register</string>
+    <string name="let_s_login" translatable="false">Let\'s Login</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="rs250000" translatable="false">Rs250000</string>
+    <string name="rs160000" translatable="false">Rs160000</string>
+    <string name="welcome" translatable="false">Welcome,</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="Login" translatable="false">login</string>
+    <string name="Password" translatable="false">password</string>
+    <string name="skip" translatable="false">Skip...</string>
+    <string name="view_and_experience_furniture" translatable="false">view and experience furniture</string>
+    <string name="design_your_space_with_augmented_reality_by_creating_room" translatable="false">Design your space with Augmented Reality by creating Room</string>
+    <string name="let_s_register" translatable="false">Let\'s Register.</string>
+    <string name="last_name" translatable="false">Last Name</string>
+    <string name="do_you_have_an_account_login" translatable="false">Do you have an Account?Login</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="beds" translatable="false">Beds</string>
+    <string name="chairs" translatable="false">Chairs</string>
+    <string name="cupboards" translatable="false">Cupboards</string>
+    <string name="tables" translatable="false">Tables</string>
+    <string name="second_hand_furniture" translatable="false">Second Hand Furniture</string>
+    <string name="rs_90000" translatable="false">Rs 90000</string>
+    <string name="rs_750000" translatable="false">Rs 750000</string>
+    <string name="rs_80000" translatable="false">Rs 80000</string>
+
+</resources>
